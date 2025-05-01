@@ -1,4 +1,4 @@
-# Thirsty Scholar Hub <img alt="Data Science" width="25" src="https://github.com/user-attachments/assets/5533f210-e62f-485c-85af-7ca7ab6495c5">
+# 🌍 Welcome to Thirsty Scholar Hub <img alt="TSH" width="25" src="https://github.com/user-attachments/assets/5533f210-e62f-485c-85af-7ca7ab6495c5">
 
   <strong>Empowering Learners | Building the Future | Fueling the AI Revolution</strong>
 
