@@ -1,34 +1,28 @@
-# <p align="center">🌍 Welcome to Thirsty Scholar Hub</p>
+# Thirsty Scholar Hub <img alt="Data Science" width="25" src="https://github.com/user-attachments/assets/5533f210-e62f-485c-85af-7ca7ab6495c5">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5533f210-e62f-485c-85af-7ca7ab6495c5" width="25%" alt="Thirsty Scholar Hub Banner" />
-</p>
-
-<p align="center">
   <strong>Empowering Learners | Building the Future | Fueling the AI Revolution</strong>
-</p>
 
 ---
 
-<h2 align="center">🚀 About Us</h2>
+<h2>🚀 About Us</h2>
 
-<p align="center">
+<p>
 Thirsty Scholar Hub is a global community-driven GitHub organization founded by <a href="https://github.com/alexjoshva">Alex Joshva</a>, passionate about uniting technologists, learners, and creators under one roof. We are committed to covering every aspect of the modern tech world — from offering curated educational content to engineering groundbreaking projects that leverage the power of AI, Web3, and open-source principles.
 </p>
 
-<p align="center">
+<p>
 Born from the idea that the world needs more collaborative builders — not just coders — this initiative welcomes everyone. Whether you’re a curious learner, a developer looking to give back, or an innovator in emerging tech, this hub is for you.
 </p>
 
-<p align="center">
+<p>
 We believe that <strong>technology is the key to empowerment</strong>. Through inclusive education, real-world projects, and a global network of contributors, we aim to democratize knowledge and opportunity for all.
 </p>
 
 ---
 
-<h2 align="center">🎯 Our Mission</h2>
+<h2>🎯 Our Mission</h2>
 
-<p align="center">
+<p>
 📚 <strong>Learn & Teach:</strong> Provide structured, accessible, and ever-evolving educational content covering all domains of technology and computer science.<br>
 💻 <strong>Build Open-Source Projects:</strong> Create impactful software for the world to use and expand — from beginner-level projects to enterprise-ready solutions.<br>
 🧠 <strong>Empower Freshers & Learners:</strong> Offer real opportunities for students, graduates, and aspiring professionals to gain practical experience and build standout portfolios.<br>
@@ -38,9 +32,9 @@ We believe that <strong>technology is the key to empowerment</strong>. Through i
 
 ---
 
-<h2 align="center">🧩 What We Offer</h2>
+<h2>🧩 What We Offer</h2>
 
-<p align="center">
+<p>
 ✅ <strong>Free Learning Resources</strong> in areas like full-stack development, machine learning, cybersecurity, UI/UX, cloud platforms, and beyond<br>
 ✅ <strong>Beginner-Friendly Repositories</strong> with well-labeled issues, tutorials, and step-by-step guides<br>
 ✅ <strong>Real Open-Source Projects</strong> ranging from productivity tools to cutting-edge AI solutions<br>
@@ -51,9 +45,9 @@ We believe that <strong>technology is the key to empowerment</strong>. Through i
 
 ---
 
-<h2 align="center">🧑‍💻 Who Can Join?</h2>
+<h2>🧑‍💻 Who Can Join?</h2>
 
-<p align="center">
+<p>
 Everyone is welcome — regardless of background, geography, or skill level. Our community is for:<br><br>
 👨‍🎓 Students starting their tech journey<br>
 💼 Freshers building their first professional portfolio<br>
@@ -62,30 +56,30 @@ Everyone is welcome — regardless of background, geography, or skill level. Our
 💡 Creatives with ideas and a passion to innovate
 </p>
 
-<p align="center">
+<p>
 Whether you code, design, document, teach, or learn — there’s a place for you here.
 </p>
 
 ---
 
-<h2 align="center">🔥 How to Join</h2>
+<h2>🔥 How to Join</h2>
 
-<p align="center">
+<p>
 1. ⭐ <strong>Star & Follow</strong> <a href="https://github.com/Thirsty-Scholar-Hub">Thirsty Scholar Hub</a><br>
 2. 📩 <strong>Message or comment</strong> your interest via GitHub Discussions or relevant repos<br>
 3. ✅ <strong>Receive an invite</strong> from our admin team<br>
 4. 💡 <strong>Start contributing and collaborating!</strong>
 </p>
 
-<p align="center">
+<p>
 Each member is personally welcomed and supported throughout their journey.
 </p>
 
 ---
 
-<h2 align="center">🧠 Why Open Source Matters (Especially for Freshers)</h2>
+<h2>🧠 Why Open Source Matters (Especially for Freshers)</h2>
 
-<p align="center">
+<p>
 In today’s competitive landscape, employers value practical experience over mere credentials. Contributing to open source showcases:<br><br>
 🚀 Ability to work in real-world dev environments<br>
 🧰 Practical coding and collaboration skills<br>
@@ -94,15 +88,15 @@ In today’s competitive landscape, employers value practical experience over me
 🤝 Teamwork and communication proficiency
 </p>
 
-<p align="center">
+<p>
 With us, you don’t just write code — you write your story.
 </p>
 
 ---
 
-<h2 align="center">🌐 Domains We Cover</h2>
+<h2>🌐 Domains We Cover</h2>
 
-<p align="center">
+<p>
 🌐 Full Stack Web Development (HTML, CSS, JavaScript, React, Node.js, Django, etc.)<br>
 📦 Backend & API Development<br>
 🤖 AI, Deep Learning, Machine Learning<br>
@@ -116,15 +110,15 @@ With us, you don’t just write code — you write your story.
 🧑‍🏫 EdTech Platforms, Interactive Learning Tools
 </p>
 
-<p align="center">
+<p>
 If it's tech, we explore it.
 </p>
 
 ---
 
-<h2 align="center">🌟 Our Vision</h2>
+<h2>🌟 Our Vision</h2>
 
-<p align="center">
+<p>
 We dream of a world where learning tech is free from barriers — where anyone with curiosity and drive can:<br><br>
 📚 Access top-tier resources<br>
 💡 Join impactful global projects<br>
@@ -132,29 +126,28 @@ We dream of a world where learning tech is free from barriers — where anyone w
 🌍 Leave behind a digital legacy of innovation and contribution
 </p>
 
-<p align="center">
+<p>
 We are <strong>Thirsty Scholars</strong> — always eager for knowledge and purpose-driven innovation.
 </p>
 
 ---
 
-<h2 align="center">✨ What Makes Us Unique</h2>
+<h2>✨ What Makes Us Unique</h2>
 
-<p align="center">
+<p>
 Unlike traditional tech communities that often feel disconnected or competitive, <strong>Thirsty Scholar Hub</strong> stands out by fostering genuine collaboration and inclusivity. We are not just another GitHub org — we're a global <strong>movement</strong> of learners and builders who believe in making technology <strong>accessible</strong>, <strong>practical</strong>, and <strong>human-centered</strong>. Our culture thrives on <strong>mentorship</strong>, <strong>peer learning</strong>, and <strong>real-world impact</strong>. We don't gatekeep knowledge — we grow together, build together, and celebrate every win as a team.
 </p>
 
 ---
 
-<h2 align="center">🙌 Connect With Us</h2>
+<h2>🙌 Connect With Us</h2>
 
-<p align="center">
+<p>
 💬 Visit our GitHub Org: <a href="https://github.com/Thirsty-Scholar-Hub">Thirsty Scholar Hub</a><br>
 🧠 Contact our founder: <a href="https://github.com/alexjoshva">Alex Joshva</a><br>
 📢 Share our mission with friends, peers, and communities
 </p>
 
-<p align="center"><em>"Technology is best when it brings people together." – Matt Mullenweg</em></p>
+<p><em>"Technology is best when it brings people together." – Matt Mullenweg</em></p>
 
-<h2 align="center">🚀 <a href="https://github.com/Thirsty-Scholar-Hub">Join Thirsty Scholar Hub Now</a></h2>
-
+<h2>🚀 <a href="https://github.com/Thirsty-Scholar-Hub">Join Thirsty Scholar Hub Now</a></h2>
