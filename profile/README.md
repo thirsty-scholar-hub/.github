@@ -143,7 +143,7 @@ Unlike traditional tech communities that often feel disconnected or competitive,
 
 <p>
 💬 Visit our GitHub Org: <a href="https://github.com/Thirsty-Scholar-Hub">Thirsty Scholar Hub</a><br>
-🧠 Contact our founder: <a href="https://github.com/alexjoshva">Alex Joshva</a><br>
+🧠 Contact our founder: <a href="https://github.com/alexcj831">Alex Joshva</a><br>
 📢 Share our mission with friends, peers, and communities
 </p>
 
