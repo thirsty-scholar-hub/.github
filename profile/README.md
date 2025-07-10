@@ -6,7 +6,7 @@
 <h2>🚀 About Us</h2>
 
 <p>
-Thirsty Scholar Hub is a global community-driven GitHub organization founded by <a href="https://github.com/alexalexbits">Alex</a>, passionate about uniting technologists, learners, and creators under one roof. We are committed to covering every aspect of the modern tech world — from offering curated educational content to engineering groundbreaking projects that leverage the power of AI, Web3, and open-source principles.
+Thirsty Scholar Hub is a global community-driven GitHub organization founded by <a href="https://github.com/thirdprinse">Alex</a>, passionate about uniting technologists, learners, and creators under one roof. We are committed to covering every aspect of the modern tech world — from offering curated educational content to engineering groundbreaking projects that leverage the power of AI, Web3, and open-source principles.
 </p>
 
 <p>
@@ -143,7 +143,7 @@ Unlike traditional tech communities that often feel disconnected or competitive,
 
 <p>
 💬 Visit our GitHub Org: <a href="https://github.com/Thirsty-Scholar-Hub">Thirsty Scholar Hub</a><br>
-🧠 Contact our founder: <a href="https://github.com/alexalexbits">Alex</a><br>
+🧠 Contact our founder: <a href="https://github.com/thirdprinse">Alex</a><br>
 📢 Share our mission with friends, peers, and communities
 </p>
 
